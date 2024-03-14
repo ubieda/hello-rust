@@ -1,6 +1,26 @@
-### Rust Hello World
+## Rust Hello World
+
+### Description
 
 This is a basic application on learning the Rust Programming Language.
+
+### Build and Run
+
+- Build the application with: `cargo build`
+- Run the application: `cargo run`
+- Expected output:
+```shell
+Hello, world!
+ __________________________
+< Hello fellow Rustaceans! >
+ --------------------------
+        \
+         \
+            _~^~^~_
+        \) /  o o  \ (/
+          '_   -   _'
+          / '-----' \
+```
 
 ### References
 
